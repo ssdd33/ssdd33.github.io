@@ -5,11 +5,13 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'jekyll serve'. If you change this file, please restart the server process.
 
+remote_theme: Gaohaoyang/gaohaoyang.github.io
+
 # Site settings
 title: HyG
 brief-intro: Front-end Dev Engineer
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://gaohaoyang.github.io" # the base hostname & protocol for your site
+url: "https://ssdd33.github.io" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
@@ -61,3 +63,4 @@ paginate: 10
 
 plugins:
   - jekyll-paginate
+
